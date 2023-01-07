@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "build": "./build.sh",
-    "deploy": "./deploy.sh",
+    "build-deploy": "./build-deploy.sh",
+    "deploy-only": "./deploy-only.sh",
     "test": "echo use integration-tests"
   },
   "dependencies": {
