@@ -51,11 +51,4 @@ class Contract {
     return this.token_id;
   }
 
-  // @view({})
-  // get_all_token() {
-  //   return this.token_id;
-  // }
-
-
-
 }
